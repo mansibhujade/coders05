@@ -5,7 +5,7 @@ if __name__ == "__main__":
     gui.title("intro page")
     gui.geometry('700x600')
 
-    l1=Label(gui,text="welcome to  library",bg="green" ,width=30,font=100).\
+    l1=Label(gui,text="welcome to \n library",bg="green" ,width=30,font=100).\
         place(height=100,width=550,x=75,y=00)
 
 
